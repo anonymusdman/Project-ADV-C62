@@ -1,0 +1,16 @@
+.arrows2 {
+    height: 10%;
+}
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+}
+.carousel-content {
+    font-size: 25px;
+    font-family: fantasy;
+}
+#body {
+  background-color: coral;
+}
